@@ -23,7 +23,7 @@
 
 #import <MapKit/MKGeometry.h>
 
-static const unsigned char MIZoomDepth = 20;
+static const unsigned char MIZoomDepth = 22;
 static const unsigned char MIZoomDepthIncrement = 1;
 static const NSUInteger MIMinimumZoomDepth = 2;
 static const double MIMercatorRadius = 85445659.44705395;
